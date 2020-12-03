@@ -29,6 +29,9 @@ hooks                                   utils
     useContext
     useState
     useRef
+    useComponent
+    useProps
+    useEnv
     useSubEnv
     useStore
     useDispatch
